@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'commit1';
+        echo 'ramaCris'
         ?>
     </body>
 </html>
